@@ -1,0 +1,60 @@
+* {
+	padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+	text-align:center;
+}
+
+body {
+	background-color: #737373;
+	padding: 2%;
+	text-align:justify;
+}
+
+p {
+	text-indent: 5%;
+}
+
+section {
+	color:#fafafa;
+	float: left;
+	width: 74%;
+	padding: 2%;
+	margin: 0;
+	background-color: #6B6B6B;
+	border-radius: 5px;
+}
+
+section article h1 {
+	text-align: center;
+	font-size: 30px;
+}
+
+aside {
+	float: right;
+	width: 25%;
+	padding: 1.5%;
+	margin: 1% 0;
+	margin-top: 0;
+	background-color: #6B6B6B;
+	border-radius: 5px;
+}
+
+footer {
+	float: left;
+	width: 100%;
+	padding: 2%;
+	margin: 1% 0;
+	background-color: #6B6B6B;
+	border-radius: 5px;
+}
+
+.one-third {
+	float: left;
+	width: 31%;
+	padding: 1%;
+	margin: 0 1%;
+}
